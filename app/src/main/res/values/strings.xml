@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Reply</string>
+    <string name="send">Send</string>
+    <string name="remote">Send as remote user</string>
+</resources>
